@@ -1,3 +1,5 @@
+It is an ancient time, and Pokémon still roam upon the earth. Two great powers, the Union and the Empire, wage fierce war for the control of a goddess who protects the harmony of the world.
+
 # Pokémon Red and Blue [![Build Status][ci-badge]][ci]
 
 This is a disassembly of Pokémon Red and Blue.
