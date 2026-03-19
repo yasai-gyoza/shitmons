@@ -1,3 +1,6 @@
+# aseprite project files
+*.aseprite
+
 # compiled objects
 *.o
 
