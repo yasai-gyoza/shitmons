@@ -439,13 +439,13 @@ _ParasectDexEntry::
 	dex
 
 _PsyduckDexEntry::
-	text "While lulling its"
-	next "enemies with its"
-	next "vacant look, this"
+	text "It exists in a"
+	next "state of constant"
+	next "agony due to its"
 
-	page "wily #MON will"
-	next "use psychokinetic"
-	next "powers"
+	page "chronic migraines."
+	next "Very painful, but"
+	next "it deserves them."
 	dex
 
 _DrowzeeDexEntry::
